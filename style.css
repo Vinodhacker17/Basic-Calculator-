@@ -1,0 +1,79 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #d1d1d1;
+}
+
+.calculator {
+    width: 340px;
+    background-color: #EAEAEA;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    border: 1px solid #c5c5c5;
+}
+
+.display {
+    width: 100%;
+    height: 70px;
+    border: 1px solid #b3b3b3;
+    background-color: #f7f7f7;
+    color: #333;
+    text-align: right;
+    font-size: 2.8rem;
+    padding: 10px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    overflow-x: auto;
+}
+
+.keypad {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
+
+.key {
+    height: 55px;
+    border: 1px solid #c1c1c1;
+    border-radius: 5px;
+    font-size: 1.5rem;
+    cursor: pointer;
+    background-color: #F1F1F1;
+    color: #333;
+    transition: background-color 0.2s;
+    box-shadow: 0 2px 2px rgba(0,0,0,0.1);
+}
+
+.key:active {
+    background-color: #dcdcdc;
+    transform: translateY(1px);
+    box-shadow: none;
+}
+
+.function {
+    background-color: #E0E0E0;
+}
+
+.sci {
+    color: #007bff;
+    font-weight: 500;
+}
+
+.operator {
+    background-color: #FFC107;
+    border-color: #e0a800;
+}
+.operator:active {
+    background-color: #e0a800;
+}
+
+/* CHANGED: Wide class now applies to the equals button */
+.wide {
+    grid-column: span 2;
+}
