@@ -5,7 +5,7 @@
 </p>
 An advanced, browser-based scientific calculator built with vanilla JavaScript, featuring a modern, responsive design inspired by iOS and a dynamic animated background.
 
-*(Important: Remember to replace YOUR_USERNAME and YOUR_REPO_NAME in the badges above after you push to GitHub)*
+
 
 <br>
 
