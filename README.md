@@ -13,9 +13,9 @@ An advanced, browser-based scientific calculator built with vanilla JavaScript, 
 <br>
 
 <p align="center">
-  <img src="https-your-screenshot-url.png" alt="Calculator Screenshot" width="50%">
+  <img width="50%" alt="Calculator Project Screenshot" src="https://github.com/user-attachments/assets/41796dab-db49-4cf9-8999-eaf90695e360" />
   <br>
-  <em>(Replace this with a screenshot of your final calculator)</em>
+  <em>The final calculator interface.</em>
 </p>
 
 ---
