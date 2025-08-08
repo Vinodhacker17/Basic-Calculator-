@@ -1,8 +1,9 @@
 # Basic Web Calculator
 
 <p align="center">
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/Vinodhacker17/Basic-Calculator-?style=for-the-badge&color=orange">
-  <img alt="Top Language" src="https://img.shields.io/github/languages/top/Vinodhacker17/Basic-Calculator-?style=for-the-badge&color=orange">
+  <img src="https-your-screenshot-url.png" alt="Calculator Screenshot" width="50%">
+  <br>
+  
 </p>
 
 An advanced, browser-based scientific calculator built with vanilla JavaScript, featuring a modern, responsive design inspired by iOS and a dynamic animated background.
